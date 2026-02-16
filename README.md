@@ -110,7 +110,7 @@ If you use BIRD-UKR in your research, please cite:
 
 ## Roadmap
 
-- [ ] Upload to HuggingFace Datasets for discoverability
+- [x] Upload to HuggingFace Datasets for discoverability
 - [ ] Add execution accuracy evaluation scripts
 - [ ] Expand query count per domain
 - [ ] Add cross-lingual (Ukrainian ↔ English) query pairs
